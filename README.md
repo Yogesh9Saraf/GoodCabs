@@ -67,8 +67,8 @@ Domain – Transportation & Mobility (Operations Analytics)
 
 📍 Satisfaction Scores – Driver & Passenger Ratings
 
-📽️ Live Dashboard Preview
-👉 View the Power BI Dashboard :- 
+<br>📽️ Live Dashboard Preview
+👉 View the Power BI Dashboard :- https://app.powerbi.com/view?r=eyJrIjoiMWQ2ODczMzUtN2ZjYi00MzhhLTlhNTgtMDA3YWY5MTQ5MTk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 📤 Output & Deliverables
 ✅ Interactive Power BI dashboard
