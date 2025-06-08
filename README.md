@@ -1,22 +1,21 @@
-🚖 Goodcabs Operational Performance Dashboard
+# 🚖 Goodcabs Operational Performance Dashboard
 A data analytics and visualization project designed to assess and enhance the operational performance of Goodcabs, a growing cab service provider in Tier-2 Indian cities.
 
-📌 Project Overview
+## 📌 Project Overview
 Goodcabs has rapidly expanded its footprint in the transportation sector by serving Tier-2 cities across India. This project aims to analyze operational KPIs and offer actionable insights to help the company achieve its 2024 performance targets.
 
-This end-to-end dashboard project includes:
+### This end-to-end dashboard project includes:
 
-Trip performance tracking
+✅ Trip performance tracking
 
-Revenue analysis
+✅ Revenue analysis
 
-Passenger behavior insights
+✅ Passenger behavior insights
 
-Target achievement breakdowns
+✅ Target achievement breakdowns
 
-📊 Dashboard Features
+### 📊 Dashboard Features
 🔹 Overview Page
-
 Total trips, distance traveled, and revenue summary
 
 Month-wise and city-wise trip distribution
@@ -26,7 +25,6 @@ Top and bottom performing cities
 Weekday vs. weekend trip trends
 
 🔹 Revenue Page
-
 Revenue trends by city and month
 
 Top/bottom cities by revenue
@@ -34,7 +32,6 @@ Top/bottom cities by revenue
 Day-type-based revenue patterns
 
 🔹 Passenger View
-
 City-wise analysis of repeat vs. new passengers
 
 Monthly trends in repeat behavior
@@ -42,10 +39,9 @@ Monthly trends in repeat behavior
 Satisfaction ratings (passenger & driver)
 
 🔹 Target View
-
 Trip volume vs. target for 6 months
 
-Target achievement rate (TAR%)
+Target Achievement Rate (TAR%)
 
 Key metrics: 426K total trips, 185K new passengers targeted
 
@@ -72,26 +68,27 @@ Domain – Transportation & Mobility (Operations Analytics)
 📍 Satisfaction Scores – Driver & Passenger Ratings
 
 📽️ Live Dashboard Preview
-👉 View the Power BI Dashboard
+👉 View the Power BI Dashboard :- 
 
 📤 Output & Deliverables
-Interactive Power BI dashboard
+✅ Interactive Power BI dashboard
 
-Presentation deck with insights & recommendations
+✅ Executive-level presentation deck with key insights
 
-Answers to primary, secondary, and ad-hoc business questions
+✅ Answers to primary, secondary, and ad-hoc business questions
 
-Strategic recommendations for underperforming cities & growth opportunities
+✅ Strategic recommendations for underperforming cities & growth opportunities
 
 💡 Key Learnings
 Real-world business scenario interpretation
 
-Translating data into executive-level insights
+Translating SQL data into Power BI stories
 
-End-to-end BI development lifecycle
+Full BI development lifecycle exposure
 
-Impact analysis of operational KPIs
+Impact analysis of operational KPIs for business growth
 
 👨‍💻 Author
 Yogesh Saraf – Data Analyst & Engineer
-📫 Let's connect on LinkedIn
+📫 Let’s connect on LinkedIn
+
